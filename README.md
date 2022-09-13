@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**RennanLopes/RennanLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @RennanLopes
+- 👀 I’m interested in FrontEnd(HTML/CSS, Javascript) BackEnd(Golang, PHP, NODE) Dba(MYSQL) Devops(AWS, AZURE, DOCKER, VMWARE) Mobile(Flutter) 
+- 🌱 I’m currently learning HTML/CSS, C
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... Gmail(rennanlopesre@gmail.com) Linkedin(www.linkedin.com/in/rennan-lps)
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/RennanLopes">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RennanLopes&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanLopes&hide=jupyter%20notebook&layout=compact&langs_count=6&theme=omni"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+RennanLopes/RennanLopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
