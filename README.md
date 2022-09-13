@@ -2,8 +2,6 @@
 
 - 👋 Hi, I’m @RennanLopes
 - 👀 I’m interested in FrontEnd(HTML/CSS, Javascript) BackEnd(Golang, PHP, NODE) Dba(MYSQL) Devops(AWS, AZURE, DOCKER, VMWARE) Mobile(Flutter) 
-- 🌱 I’m currently learning HTML/CSS, C
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Gmail(rennanlopesre@gmail.com) Linkedin(www.linkedin.com/in/rennan-lps)
 
 <div>
