@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @RennanLopes
-- 👀 I’m interested in:<br> FrontEnd (HTML/CSS, Javascript)<br> BackEnd (Golang, PHP, NODE)<br> Dba (MYSQL)<br> Devops (AWS, AZURE, DOCKER, VMWARE)<br> Mobile (Flutter) 
+- 👀 I’m interested in:<br> FrontEnd (HTML/CSS, Javascript)<br> BackEnd (Golang, PHP, C#)<br> Dba (MYSQL)<br> Mobile (Flutter) 
 - 📫 How to reach me ... Gmail(rennanlopesre@gmail.com) Linkedin(www.linkedin.com/in/rennan-lps)
 
 <div>
